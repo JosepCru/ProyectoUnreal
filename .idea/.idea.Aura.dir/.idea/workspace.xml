@@ -8,9 +8,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5511380-b8c7-4450-85d1-e1142ebc1ef3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Aura.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/Aura.uproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultGame.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultGame.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Maps/StartupMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/StartupMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Characters/Aura/SKM_Aura.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/Characters/Aura/SKM_Aura.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Characters/Aura/SK_Aura.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/Characters/Aura/SK_Aura.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Enemies/Goblin/SKM_Goblin.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/Enemies/Goblin/SKM_Goblin.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Enemies/Goblin/SK_Goblin.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/Enemies/Goblin/SK_Goblin.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/Character/CharacterBase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/Character/CharacterBase.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/Character/CharacterBase.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/Character/CharacterBase.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +143,7 @@
       <workItem from="1716159377880" duration="201000" />
       <workItem from="1716159601456" duration="350000" />
       <workItem from="1716160606057" duration="6000" />
-      <workItem from="1716160648971" duration="1054000" />
+      <workItem from="1716160648971" duration="2050000" />
     </task>
     <servers />
   </component>
